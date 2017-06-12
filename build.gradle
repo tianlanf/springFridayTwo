@@ -8,6 +8,7 @@ repositories {
 dependencies {
     compile('org.springframework:spring-core:3.0.5.RELEASE',
             'org.springframework:spring-context:3.0.5.RELEASE',
+ 	    //test git 
             'org.springframework:spring-beans:3.0.5.RELEASE',
             'junit:junit:4.6')
 }
